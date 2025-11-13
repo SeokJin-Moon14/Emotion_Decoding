@@ -1,2 +1,2 @@
-# Emotion_Decoding
-Emotion Decoding (EEG. Sismologia)
+# EmoEEG with VR
+
